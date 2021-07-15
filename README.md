@@ -1,4 +1,6 @@
-### Hi there 👋
+### You've found Dillon Wells!
+As you may have noticed, there isn't much here yet. What _is_ here is my own work, though the `alien eye` project looks like it was copied over...because it was! It was copied over from my student repo, which I don't share. Anyways, feel free to have a look around. Thanks for stopping by.
+
 
 <!--
 **dwells35/dwells35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
