@@ -1,5 +1,5 @@
 ### You've found Dillon Wells!
-As you may have noticed, there isn't much here yet. What _is_ here is my own work, though the `alien_eye` project looks like it was copied over...because it was! It was copied over from my student account, where I did all the development, which I don't share. Anyways, feel free to have a look around. Thanks for stopping by.
+As you may have noticed, there isn't much here yet. What _is_ here is my own work, though the `alien_eye` project looks like it was copied over...because it was! It was copied over another account where I did all the development, which I don't share. Anyways, feel free to have a look around. Thanks for stopping by.
 
 
 <!--
